@@ -85,9 +85,3 @@ path = "externals/gcn/include/**"
 SPDX-FileCopyrightText = "NONE"
 SPDX-License-Identifier = "CC0-1.0"
 
-
-[[annotations]]
-path = ".claude/skills/replica-*/**"
-precedence = "aggregate"
-SPDX-FileCopyrightText = "Copyright (c) 2026 Jake Schincariol"
-SPDX-License-Identifier = "MIT"
